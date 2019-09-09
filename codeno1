@@ -1,0 +1,8 @@
+string1="vishal"
+string2="sundar"
+m=string1
+n=string2
+if is subsequence(string1,string2,m,n): 
+print("yes")
+else:
+  print("no")
